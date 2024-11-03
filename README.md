@@ -27,8 +27,6 @@ This Project performs a series of data preprocessing and machine learning tasks 
 
 * Removing Gender-Biased Words: Identifies words associated with male and female classifications based on decision tree splits. These words are removed from the dataset to reduce gender prediction bias.
 
-* Clustering: (Partially completed) Prepares to perform k-means clustering on the dataset, grouping users into different clusters.
+* Clustering:Prepares to perform k-means clustering on the dataset, grouping users into different clusters.
 
-**Project Highlights:**
 
-This pipeline offers a comprehensive approach to text data preprocessing, model training, and bias reduction, with detailed steps for each phase. The clustering step is set up but requires further code to finalize the k-means clustering and assess cluster quality.
